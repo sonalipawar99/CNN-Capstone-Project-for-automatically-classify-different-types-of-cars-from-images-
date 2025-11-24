@@ -1,0 +1,2 @@
+# CNN-Capstone-Project-for-automatically-classify-different-types-of-cars-from-images-
+The goal of this project is to develop a Deep Learning model that can accurately classify images of vehicles into the following categories: - Auto rickshaw , Bicycle , Car , CNG ,4 Motorbike , Taxi ,Truck .However, the pipeline is fully functional: Data preprocessing, Model building, Training ,Evaluation ,Prediction Model saving.
